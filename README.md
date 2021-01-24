@@ -16,6 +16,7 @@ Projeto feito durante o Bootcamps "HTML Web Developer" da Digital Innovation One
 
 * HTML
 * CSS
+* JavaScript
 
 
 
@@ -27,9 +28,10 @@ Projeto feito durante o Bootcamps "HTML Web Developer" da Digital Innovation One
 
 ##  💻Visualização:
 
-<h4>Vídeo</h4>
+<img src="imgmain.jpg">
 
-<p> Feito modelo de Pop-up na página principal (index).</p>
+
+<p> Caso deseje ver as mudanças, assista o vídeo abaixo.</p>
 
 <a href="https://www.youtube.com/watch?v=4nrLEHufU1Y" target="_blank">Clique aqui</a>
 

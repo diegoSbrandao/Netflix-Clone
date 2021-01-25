@@ -38,7 +38,7 @@ Projeto feito durante o Bootcamps "HTML Web Developer" da Digital Innovation One
 
 
 ##  ✔Atualização:
-24/01 - Atualização: Inserção do ícone da netflix, mudança do logo para mais perto do logo original, inserção da janela modal, para inserção de link redireciondo cada imagem, para seus pespectivos trailer, e ao clicar no novo logo inserido, o usuário é redirecionado direto para a página oficial do netflix.
+24/01 - Atualização: Inserção do ícone da netflix, mudança do logo para mais perto do logo original, inserção da janela modal, para inserção de link´s redirecionando cada imagem para seus pespectivos trailers e, ao clicar no novo logo inserido, o usuário é redirecionado direto para a página oficial do netflix.
 
 
 
